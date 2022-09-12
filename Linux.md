@@ -4,7 +4,7 @@
 
 - ssh접속 사용자 로그인
 
-'''linux
+'''LINUX
 ssh 60205210@classnet.mju.ac.kr -p 1004
 password 1234
 
@@ -51,7 +51,7 @@ password 1234
 
 ## cmd창에서 컴파일후 실행 (JAVA)
 
-'''linux
+'''LINUX
   javac ja.java
   java ja.java
 '''
