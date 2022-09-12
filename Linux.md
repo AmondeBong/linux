@@ -6,6 +6,7 @@
 
 
   ssh 60205210@classnet.mju.ac.kr -p 1004
+  <br/>
   password 1234
 
 
@@ -53,5 +54,6 @@
 
 
   javac ja.java
+  </br>
   java ja.java
 
