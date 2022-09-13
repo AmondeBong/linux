@@ -5,7 +5,7 @@
 - ssh접속 사용자 로그인
 
 
-  ssh 60205210@classnet.mju.ac.kr -p 1004
+  ssh s60205210@classnet.mju.ac.kr -p 1004
   <br/>
   password 1234
 
